@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="126.15427mm"
+   height="26.588577mm"
+   viewBox="0 0 126.15427 26.588577"
+   version="1.1"
+   id="svg5"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false" />
+  <defs
+     id="defs2">
+    <rect
+       x="183.87943"
+       y="372.0351"
+       width="378.44949"
+       height="49.177052"
+       id="rect5409" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-35.64,-91.645711)">
+    <rect
+       style="opacity:0.84;fill:#00a1ff;fill-opacity:1;stroke-width:0.264583"
+       id="rect1763"
+       width="126.15428"
+       height="26.588572"
+       x="35.639999"
+       y="91.645714"
+       ry="10.182858"
+       inkscape:export-filename="rect1763.svg"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.82411758,0,0,1.1239512,-93.212521,-320.82533)"
+       id="text5407"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Calisto MT';-inkscape-font-specification:'Calisto MT';white-space:pre;shape-inside:url(#rect5409);opacity:0.84;fill:#000000;fill-opacity:1"><tspan
+         x="183.87891"
+         y="382.80355"
+         id="tspan5653">INICIAR JUEGO</tspan></text>
+  </g>
+</svg>
